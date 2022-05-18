@@ -1,0 +1,4 @@
+Pillow
+pyfiglet
+pywin32
+console-progressbar
